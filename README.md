@@ -1,20 +1,6 @@
 # ImagePatternRecognition (IPR Code)
 
-Image Creation and Reading Project
-
-Used for image processing tasks.
-Ensure you have these packages installed before running the scripts. You can install the required packages using pip:
-
-bash
-Copy code
-pip install numpy pillow
-Functions Overview
-read_tranformed_image(image_path)
-Reads and decodes text from an encoded image.
-
-### Image and Text Encoding/Decoding Operations
-
-This script provides functions to encode text into images and decode text from images. It also includes functions to convert images to base64 strings and vice versa, and to save encoded images as IPR files.
+This script offers functions for encoding or creating images into IPR Codes, reading or decoding such images, and producing images that are normal again.
 
 ## Functions
 
