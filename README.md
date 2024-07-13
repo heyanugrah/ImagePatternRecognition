@@ -2,6 +2,8 @@
 
 This script offers functions for encoding or creating images into IPR Codes, reading or decoding such images, and producing images that are normal again.
 
+<img src="https://github.com/heyanugrah/ImagePatternRecognition/blob/main/ipr_functionality.jpg" alt="Alt Text" width="600" height="400">
+
 ## Functions
 
 ### 1. `read_tranformed_image(image_path)`
