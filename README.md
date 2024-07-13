@@ -122,7 +122,7 @@ Decoding/Reading an Image:
 readIpr("encoded_image.imr", "decoded_image.jpg")
 ```
 
-# Encoding and Decoding Images with AnugrahIMRCode
+# Encoding and Decoding Images with IPRCode
 
 Learn how to use, a Python module for encoding and decoding images using IPR files.
 
